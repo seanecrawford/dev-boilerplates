@@ -1,1 +1,36 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base Styling */
+body {
+  font-family: system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #222;
+  padding: 1rem;
+}
+
+/* Elements */
+h1 {
+  margin-bottom: 1rem;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+a {
+  color: #0077cc;
+}
+
+/* Layout */
+main {
+  max-width: 800px;
+  margin: auto;
+}
 
